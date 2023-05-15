@@ -1,4 +1,5 @@
-streamlit==0.82.0
+streamlit
+git+https://github.com/huggingface/transformers
 torch==1.8.1
 transformers==4.6.1
 datasets==1.6.2
