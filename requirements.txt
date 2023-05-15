@@ -1,4 +1,6 @@
 streamlit
 git+https://github.com/huggingface/transformers
-datasets sentencepiece
-bitsandbytes accelerate
+datasets
+sentencepiece
+bitsandbytes 
+accelerate
